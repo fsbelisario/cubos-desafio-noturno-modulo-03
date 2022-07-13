@@ -1,0 +1,6 @@
+.form-enroll {
+    display: flex;
+    flex-direction: column;
+    row-gap: 40px;
+    align-items: center;
+}
